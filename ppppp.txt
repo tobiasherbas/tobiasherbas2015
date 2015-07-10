@@ -1,0 +1,19 @@
+1string= json1= json.stringity()      objeto var a= {}
+                                                             array var b={}
+obj    array  1 = json.parse(string = json)
+
+server
+var b = json.parse(w
+console.log(b.user)
+console.log(b.pase)
+cliente
+var param={}
+param.user
+
+select e.nombres, e.apMaterno, e.apMaterno, cp.nomCarrera, a.denominacion, ca.aula from ((((docente m join cargaAcademica ca
+ on m.codDocente=ca.codDocente) join asignatura a
+ on ca.codAsignatura=a.codAsignatura)join carreraProfesional cp
+ on a.codCarrera=cp.codCarrera)join estudiante  on cp.codCarrera=e.codCarrera) join matricula ma 
+ on e.codEstudiante=ma.codEstudiante
+
+
